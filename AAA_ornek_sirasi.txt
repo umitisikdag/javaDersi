@@ -1,0 +1,51 @@
+Object Oriented has 4 principles : Encapsulation,Inheritence,Abstraction,Polymorphism
+
+PreReuisites :Deitel Chapter 2 (Welcome1-2-3-4,Addition,Comparison)
+
+Ornek Dosyalari								TestDosyasi			Ogrenme Hedefi
+
+KebKalibi     								/ KekTest             		:single method class
+KekKalibi2    								/ KekTest2                      :method with single parameter no return (*)
+Hesaplayici + Hesaplayici2   						/ HesaplayiciTest               :methods/paramter passing /return results
+KekKalibi3  								/ KekTest3                      :getter /setter   (Encapsulation)(*)
+Araba     								/ ArabaTest			:getter/setter/constructor (Encapsulation)
+Hayvan+Kedi+Kopek							/ KediKopekTest                 :method overriding(*)
+Hayvan+Papagan								/ PapaganTest			:Polymorphism(*)
+Tasit+Otomobil+Tren+Ucak  						/ OtomobilUcakTrenTest      	:Inheritance
+Tasit+Otomobil+Ucabilir+UcanOtomobil 					/ UcanOtomobilTest  		:Inheritance + Interface(*)
+Tasit+Otomobil+Ucabilir+UcanOtomobil+Yuzebilir+UcanYuzenOtomobil   	/ UcanYuzenOtomobilTest  	:Inheritance +Interface+ Inheritence from Interfaced Class + 1 Interface
+Tasit+Otomobil+Ucabilir+Yuzebilir+UcanYuzenOtomobil2      		/ UcanYuzenOtomobil2Test 	:Inheritance + 2 interfaces 
+Calisan+MaasliCalisan							/ MaasliCalisanTest		:Abstraction
+
+
+
+AddNum + javadocs.pdf											:javadocs creation
+SelamlamaServer + SelamlamaClient									:Socket I/O Networking
+KekKalibi + KekKalibi2 + Hesaplayici +KekKalibi3							:Packages (paketleme i.e. alt dizinde kaydetme)
+ornek1 + ornek2 + ornek 3 + ornek 4									:Making .jar from packages 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.tutorialspoint.com/java/
+http://blog.tanshaydar.com/jcreator-ile-jar-dosyasi-yapmak.html
+http://web.eecs.utk.edu/~bvz/cs365/notes/jar.html

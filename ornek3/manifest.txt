@@ -1,0 +1,10 @@
+Main-Class: ornek3.HesaplayiciTest
+
+
+
+
+
+
+
+
+

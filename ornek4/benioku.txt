@@ -1,0 +1,32 @@
+Once class Dosyalarini ornek1 isimli package de topluyoruz.
+
+ornek1 isimli bir dizinde duracak tum class dosyalari.
+
+Sonra manifest.txt diye bir dosya olacak ayni dizinde ; icerigi
+
+Main-Class: ornek4.KekTest3
+
+Sonra JCreator ile ornek1 dizininin bir ust ebeveyn dizininde rastgele bir dosya aciyoruz, ki JCreator o path da islem yapsin
+
+Sonra JCreator u configure ediyoruz.
+
+JCreator
+
+Configure>Options>Tools>New>Create Jar File
+
+Create Jar File in ozelliklerine geliyoruz.
+
+JCreator Arguments kisminda
+
+cvfm ornek4.jar ornek4/manifest.txt ornek4/*.class
+
+ornek4.jar dosyamiz ornek1 in bir ust dizininde hazir.
+
+java -jar ornek4.jar diye calistiriyoruz
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+Main-Class: ornek1.KekTest
+
+
+
+
+
+
+
+

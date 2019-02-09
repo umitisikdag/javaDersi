@@ -1,0 +1,48 @@
+
+Sinif (Varlik Olgu-->Kod Sablonu/Kalibi             Nesne (Kod sablonuna uygun calisan program ogesi)
+ 
+Kek Kalibi					    Kek	
+(Tasarim/Kodlama Zamani)                            (Calisma Zamani)
+
+Tasit   (Ozet Ebeveyn)
+Oznitelikler
+-Renk
+
+Metodlar
++Git
+
+Araba (Ebeveyn : Miras Alinan)         >>>          34 OBJ 34 Plakali Araba             34 OJE 34
+
+Oznitelikler  ( Property )
+-Renk         (Private Property)                     Renk=Sari                          Renk=Turuncu
+-Uzunluk      (Public Property)                      Uzunluk= 5                         Uzunluk=7 
+-Genislik
+	Get Genislik  (Objeden veri alirken)         y=Araba.Genislik
+	Set Genislik  (Objeye veri aktarirken)       Araba.Genislik=10
+
+Metodlar      (Sub / Function)
++ Git
++ Dur           
++ Hizlan       (Overridable)                         Hiz=Hiz +2
++ Yavasla
+
+Yapici (Insaaci) Metod
+		(New)
+
+
+Yaris Arabasi  (Miras Alan )                         34 RSA 34 Plakali Araba             34 RSB 34
+
+Oznitelikler  ( Property )
+-Renk            
+-Uzunluk
+-Genislik
+-Direksiyon Kumandasi Markasi
+-Yaris Lastigi Markasi
+
+Metodlar      (Sub / Function)
++ Git
++ Dur
++ Hizlan      (Overrides)                             Hiz=Hiz + 20                        Hiz=Hiz +20
++ Yavasla
++ SertDonusYap
++ SertYavasla
